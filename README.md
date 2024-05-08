@@ -1,7 +1,3 @@
-### <div align="center">I'm Isaac</div>  
-    
-<br/>  
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Spiers777" target="_blank">
