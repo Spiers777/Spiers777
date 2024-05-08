@@ -1,4 +1,4 @@
-### <div align="center">I'm Isaac, a Software Engineer and Car Enthusiast</div>  
+### <div align="center">I'm Isaac</div>  
     
 <br/>  
 
